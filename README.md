@@ -6,7 +6,7 @@
 
 [Gemma](https://ai.google.dev/gemma) is a family of open-weights Large Language
 Model (LLM) by [Google DeepMind](https://deepmind.google/), based on Gemini
-research and technology.
+research and technology
 
 This repository contains the implementation of the
 [`gemma`](https://pypi.org/project/gemma/) PyPI package. A
