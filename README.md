@@ -17,7 +17,7 @@ For examples and use cases, see our
 report issues and feedback in
 [our GitHub](https://github.com/google-deepmind/gemma/issues).
 
-### Installation
+### Installation Guide
 
 1.  Install JAX for CPU, GPU or TPU. Follow the instructions on
     [the JAX website](https://jax.readthedocs.io/en/latest/installation.html).
