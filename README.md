@@ -6,7 +6,7 @@
 
 [Gemma](https://ai.google.dev/gemma) is a family of open-weights Large Language
 Model (LLM) by [Google DeepMind](https://deepmind.google/), based on Gemini
-research and technology.
+research and technology
 
 This repository contains the implementation of the
 [`gemma`](https://pypi.org/project/gemma/) PyPI package. A
@@ -17,7 +17,7 @@ For examples and use cases, see our
 report issues and feedback in
 [our GitHub](https://github.com/google-deepmind/gemma/issues).
 
-### Installation
+### Installation Guide
 
 1.  Install JAX for CPU, GPU or TPU. Follow the instructions on
     [the JAX website](https://jax.readthedocs.io/en/latest/installation.html).
